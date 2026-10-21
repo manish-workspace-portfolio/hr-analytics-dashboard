@@ -11,7 +11,9 @@ Analyzed employee data to identify attrition patterns and explore factors associ
 
 ## Tools & Technologies
 - Microsoft Excel
-- Power BI
+- MySQL
+- Microsoft Power BI
+- Tableau Public
 - Data Cleaning and Analysis
 - KPI Reporting and Data Visualization
 
