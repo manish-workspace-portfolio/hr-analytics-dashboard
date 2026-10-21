@@ -1,5 +1,5 @@
 # hr-analytics-dashboard
-# HR Analytics Dashboard | Employee Retention Analysis (using Microsoft Excel, MySQL, Microsoft Power BI, Tableau Public)
+# HR Analytics Dashboard | Employee Retention Analysis
 ## Project Overview
 Analyzed employee data to identify attrition patterns and explore factors associated with employee retention.
 
