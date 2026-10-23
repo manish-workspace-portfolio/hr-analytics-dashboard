@@ -24,7 +24,7 @@ Analyzed employee data to identify attrition patterns and explore factors associ
 - Work-Life Balance
 - Working Years and Years Since Last Promotion
 
-## Dashboard Preview
+## Dashboard Overview
 ### HR Analytics Dashboard Overview
 
 ![HR Analytics Dashboard Overview](HR_Analytics_Dashboard_Overview.png)
