@@ -25,7 +25,9 @@ Analyzed employee data to identify attrition patterns and explore factors associ
 - Working Years and Years Since Last Promotion
 
 ## Dashboard Preview
-Dashboard screenshots will be added here.
+### HR Analytics Dashboard Overview
+
+![HR Analytics Dashboard Overview](HR_Analytics_Dashboard_Overview.png)
 
 ## Key Learnings
 Developed practical skills in analyzing HR data, identifying workforce trends, and presenting findings through interactive dashboard visualizations.
